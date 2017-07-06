@@ -6,7 +6,7 @@
 
     <groupId>com.surenpi.autotest</groupId>
     <artifactId>autotest.datasource.excel</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-20170706</version>
 
     <parent>
         <groupId>com.surenpi.autotest</groupId>
@@ -32,12 +32,12 @@
         <dependency>
             <groupId>com.surenpi.autotest</groupId>
             <artifactId>autotest.datasource</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0-20170706</version>
         </dependency>
         <dependency>
             <groupId>com.surenpi.autotest</groupId>
             <artifactId>autotest.webui</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0-20170706</version>
         </dependency>
 
         <dependency>
